@@ -1,5 +1,4 @@
 # 开始安装
-
 ```
 git clone https://github.com/Zalazy/ShadowsocksR.git
 ```
